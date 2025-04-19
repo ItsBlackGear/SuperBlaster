@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "facing=north,part=primary": {
+      "model": "superblaster:block/scrap_workbench",
+      "y": 180
+    },
+    "facing=east,part=primary": {
+      "model": "superblaster:block/scrap_workbench",
+      "y": 270
+    },
+    "facing=south,part=primary": {
+      "model": "superblaster:block/scrap_workbench"
+    },
+    "facing=west,part=primary": {
+      "model": "superblaster:block/scrap_workbench",
+      "y": 90
+    },
+    "part=secondary": {
+      "model": "minecraft:block/air"
+    }
+  }
+}
