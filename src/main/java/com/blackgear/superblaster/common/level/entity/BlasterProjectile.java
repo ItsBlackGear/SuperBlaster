@@ -159,7 +159,7 @@ public class BlasterProjectile extends AbstractArrow {
                 this.getX(), this.getY(), this.getZ(),
                 size,
                 false,
-                Level.ExplosionInteraction.MOB,
+                Level.ExplosionInteraction.NONE,
                 particle,
                 particle,
                 SoundEvents.GENERIC_EXPLODE
